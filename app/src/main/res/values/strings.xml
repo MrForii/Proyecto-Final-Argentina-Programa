@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="hint1">Ingresa el texto 1</string>
+    <string name="hint2">Ingresa el texto 2</string>
+    <string name="compare_button">Comparar</string>
+    <string name="title">Curso de Desarrollo de aplicaciones móviles\nProyecto final integrador</string>
+</resources>
